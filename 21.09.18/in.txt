@@ -1,0 +1,11 @@
+10
+Grey Toyota 1 1456785 
+Yellow Lexus 1 5896478 
+Red Ferrari 1 3785698 
+Green BMW 0 RU15248
+Blue Mercedes 0 UA15248 
+Black Toyota 0 KL15248 
+White Ferrari 1 4785698 
+Purple BMW 1 658598 
+Pink Lexus 1 8785698 
+Gold Lexus 1 9785698 
